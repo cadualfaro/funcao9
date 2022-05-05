@@ -1,8 +1,3 @@
-/*
-Atividade 1
-
-Implemente uma função recursiva que retorna o fatorial de um número
- */
 package funcao9;
 import java.util.Scanner;
     public class Funcao9 {
